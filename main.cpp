@@ -4,6 +4,7 @@
 //
 
 #include <iostream>
+#include <unistd.h>
 #include "person.h"
 #include "sim.h"
 #include "aStar.h"
